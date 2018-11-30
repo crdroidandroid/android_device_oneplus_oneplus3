@@ -346,6 +346,7 @@ PRODUCT_PACKAGES += \
 # NFC
 PRODUCT_PACKAGES += \
     com.android.nfc_extras \
+    nfc_nci.msm8996 \
     NfcNci \
     SecureElement \
     Tag \
